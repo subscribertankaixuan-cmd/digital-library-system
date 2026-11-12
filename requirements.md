@@ -1,5 +1,5 @@
 # System Requirements: Digital Library v1.0
-1.Users can search for books by title.
-2.Users can borrow a book for up to 14 days.
-3.Admin can add new books to the catalog.
-4.Users can read digital E-books online
+1. Users can search for books by title.
+2. Users can borrow a book for up to 14 days.
+3. Admin can add new books to the catalog.
+4. Users can read digital E-books online
